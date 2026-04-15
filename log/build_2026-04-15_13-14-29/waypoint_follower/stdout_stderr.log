@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing waypoint_follower.egg-info/PKG-INFO
+writing dependency_links to waypoint_follower.egg-info/dependency_links.txt
+writing entry points to waypoint_follower.egg-info/entry_points.txt
+writing requirements to waypoint_follower.egg-info/requires.txt
+writing top-level names to waypoint_follower.egg-info/top_level.txt
+reading manifest file 'waypoint_follower.egg-info/SOURCES.txt'
+writing manifest file 'waypoint_follower.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint-follower.egg-link (link to .)
+Installing waypoint_follower script to /home/rishi/ros2_ws/install/waypoint_follower/lib/waypoint_follower
+
+Installed /home/rishi/ros2_ws/build/waypoint_follower
+running symlink_data

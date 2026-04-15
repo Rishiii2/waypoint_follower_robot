@@ -1,0 +1,17 @@
+[0.586s] Invoking command in '/home/rishi/ros2_ws/build/waypoint_follower': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rishi/ros2_ws/build/waypoint_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rishi/ros2_ws/build/waypoint_follower/build --no-deps symlink_data
+[0.896s] running develop
+[1.085s] running egg_info
+[1.097s] writing waypoint_follower.egg-info/PKG-INFO
+[1.097s] writing dependency_links to waypoint_follower.egg-info/dependency_links.txt
+[1.097s] writing entry points to waypoint_follower.egg-info/entry_points.txt
+[1.097s] writing requirements to waypoint_follower.egg-info/requires.txt
+[1.097s] writing top-level names to waypoint_follower.egg-info/top_level.txt
+[1.120s] reading manifest file 'waypoint_follower.egg-info/SOURCES.txt'
+[1.120s] writing manifest file 'waypoint_follower.egg-info/SOURCES.txt'
+[1.133s] running build_ext
+[1.133s] Creating /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint-follower.egg-link (link to .)
+[1.133s] Installing waypoint_follower script to /home/rishi/ros2_ws/install/waypoint_follower/lib/waypoint_follower
+[1.133s] 
+[1.133s] Installed /home/rishi/ros2_ws/build/waypoint_follower
+[1.133s] running symlink_data
+[1.156s] Invoked command in '/home/rishi/ros2_ws/build/waypoint_follower' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rishi/ros2_ws/build/waypoint_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rishi/ros2_ws/build/waypoint_follower/build --no-deps symlink_data

@@ -1,0 +1,31 @@
+[0.573s] Invoking command in '/home/rishi/ros2_ws/build/waypoint_follower': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rishi/ros2_ws/build/waypoint_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/rishi/ros2_ws/build/waypoint_follower/build
+[0.796s] running develop
+[0.912s] Removing /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint-follower.egg-link (link to .)
+[0.934s] Invoked command in '/home/rishi/ros2_ws/build/waypoint_follower' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rishi/ros2_ws/build/waypoint_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/rishi/ros2_ws/build/waypoint_follower/build
+[0.935s] Invoking command in '/home/rishi/ros2_ws/src/waypoint_follower': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rishi/ros2_ws/build/waypoint_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_follower build --build-base /home/rishi/ros2_ws/build/waypoint_follower/build install --record /home/rishi/ros2_ws/build/waypoint_follower/install.log --single-version-externally-managed install_data --force
+[1.226s] running egg_info
+[1.253s] writing ../../build/waypoint_follower/waypoint_follower.egg-info/PKG-INFO
+[1.253s] writing dependency_links to ../../build/waypoint_follower/waypoint_follower.egg-info/dependency_links.txt
+[1.253s] writing entry points to ../../build/waypoint_follower/waypoint_follower.egg-info/entry_points.txt
+[1.254s] writing requirements to ../../build/waypoint_follower/waypoint_follower.egg-info/requires.txt
+[1.254s] writing top-level names to ../../build/waypoint_follower/waypoint_follower.egg-info/top_level.txt
+[1.321s] reading manifest file '../../build/waypoint_follower/waypoint_follower.egg-info/SOURCES.txt'
+[1.322s] writing manifest file '../../build/waypoint_follower/waypoint_follower.egg-info/SOURCES.txt'
+[1.322s] running build
+[1.323s] running build_py
+[1.323s] running install
+[1.335s] running install_lib
+[1.369s] creating /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower
+[1.369s] copying /home/rishi/ros2_ws/build/waypoint_follower/build/lib/waypoint_follower/waypoint_follower.py -> /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower
+[1.370s] copying /home/rishi/ros2_ws/build/waypoint_follower/build/lib/waypoint_follower/__init__.py -> /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower
+[1.370s] byte-compiling /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower/waypoint_follower.py to waypoint_follower.cpython-312.pyc
+[1.372s] byte-compiling /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower/__init__.py to __init__.cpython-312.pyc
+[1.373s] running install_data
+[1.373s] copying resource/waypoint_follower -> /home/rishi/ros2_ws/install/waypoint_follower/share/ament_index/resource_index/packages
+[1.373s] copying package.xml -> /home/rishi/ros2_ws/install/waypoint_follower/share/waypoint_follower
+[1.373s] running install_egg_info
+[1.402s] Copying ../../build/waypoint_follower/waypoint_follower.egg-info to /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower-0.0.0-py3.12.egg-info
+[1.403s] running install_scripts
+[1.485s] Installing waypoint_follower script to /home/rishi/ros2_ws/install/waypoint_follower/lib/waypoint_follower
+[1.485s] writing list of installed files to '/home/rishi/ros2_ws/build/waypoint_follower/install.log'
+[1.505s] Invoked command in '/home/rishi/ros2_ws/src/waypoint_follower' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rishi/ros2_ws/build/waypoint_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_follower build --build-base /home/rishi/ros2_ws/build/waypoint_follower/build install --record /home/rishi/ros2_ws/build/waypoint_follower/install.log --single-version-externally-managed install_data --force

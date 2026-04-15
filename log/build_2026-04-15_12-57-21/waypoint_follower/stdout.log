@@ -1,0 +1,27 @@
+running develop
+Removing /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint-follower.egg-link (link to .)
+running egg_info
+writing ../../build/waypoint_follower/waypoint_follower.egg-info/PKG-INFO
+writing dependency_links to ../../build/waypoint_follower/waypoint_follower.egg-info/dependency_links.txt
+writing entry points to ../../build/waypoint_follower/waypoint_follower.egg-info/entry_points.txt
+writing requirements to ../../build/waypoint_follower/waypoint_follower.egg-info/requires.txt
+writing top-level names to ../../build/waypoint_follower/waypoint_follower.egg-info/top_level.txt
+reading manifest file '../../build/waypoint_follower/waypoint_follower.egg-info/SOURCES.txt'
+writing manifest file '../../build/waypoint_follower/waypoint_follower.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower
+copying /home/rishi/ros2_ws/build/waypoint_follower/build/lib/waypoint_follower/waypoint_follower.py -> /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower
+copying /home/rishi/ros2_ws/build/waypoint_follower/build/lib/waypoint_follower/__init__.py -> /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower
+byte-compiling /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower/waypoint_follower.py to waypoint_follower.cpython-312.pyc
+byte-compiling /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower/__init__.py to __init__.cpython-312.pyc
+running install_data
+copying resource/waypoint_follower -> /home/rishi/ros2_ws/install/waypoint_follower/share/ament_index/resource_index/packages
+copying package.xml -> /home/rishi/ros2_ws/install/waypoint_follower/share/waypoint_follower
+running install_egg_info
+Copying ../../build/waypoint_follower/waypoint_follower.egg-info to /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint_follower-0.0.0-py3.12.egg-info
+running install_scripts
+Installing waypoint_follower script to /home/rishi/ros2_ws/install/waypoint_follower/lib/waypoint_follower
+writing list of installed files to '/home/rishi/ros2_ws/build/waypoint_follower/install.log'

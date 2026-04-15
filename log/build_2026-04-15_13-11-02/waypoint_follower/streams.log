@@ -1,0 +1,19 @@
+[0.866s] Invoking command in '/home/rishi/ros2_ws/build/waypoint_follower': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rishi/ros2_ws/build/waypoint_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rishi/ros2_ws/build/waypoint_follower/build --no-deps symlink_data --force
+[1.074s] running develop
+[1.193s] running egg_info
+[1.205s] writing waypoint_follower.egg-info/PKG-INFO
+[1.205s] writing dependency_links to waypoint_follower.egg-info/dependency_links.txt
+[1.205s] writing entry points to waypoint_follower.egg-info/entry_points.txt
+[1.205s] writing requirements to waypoint_follower.egg-info/requires.txt
+[1.205s] writing top-level names to waypoint_follower.egg-info/top_level.txt
+[1.228s] reading manifest file 'waypoint_follower.egg-info/SOURCES.txt'
+[1.229s] writing manifest file 'waypoint_follower.egg-info/SOURCES.txt'
+[1.241s] running build_ext
+[1.241s] Creating /home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages/waypoint-follower.egg-link (link to .)
+[1.241s] Installing waypoint_follower script to /home/rishi/ros2_ws/install/waypoint_follower/lib/waypoint_follower
+[1.242s] 
+[1.242s] Installed /home/rishi/ros2_ws/build/waypoint_follower
+[1.242s] running symlink_data
+[1.242s] symbolically linking /home/rishi/ros2_ws/build/waypoint_follower/resource/waypoint_follower -> /home/rishi/ros2_ws/install/waypoint_follower/share/ament_index/resource_index/packages
+[1.242s] symbolically linking /home/rishi/ros2_ws/build/waypoint_follower/package.xml -> /home/rishi/ros2_ws/install/waypoint_follower/share/waypoint_follower
+[1.264s] Invoked command in '/home/rishi/ros2_ws/build/waypoint_follower' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rishi/ros2_ws/build/waypoint_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishi/ros2_ws/install/waypoint_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rishi/ros2_ws/build/waypoint_follower/build --no-deps symlink_data --force
