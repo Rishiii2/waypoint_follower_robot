@@ -5,3 +5,5 @@ source the file "source /opt/ros/jazzy/setup.bash
                  source ~/ros2_ws/install/setup.bash"
 then "ros2 run waypoint_follower waypoint_follower --ros-args -p waypoint_file:=/home/rishi/ros2_ws/src/waypoint_follower/waypoint.yaml"
 thsi depends on where u saved ur file.
+if package not found, rebuild the package file properly inside ros2_ws "colcon build --packages-select waypoint_follower"
+then source it and then run
